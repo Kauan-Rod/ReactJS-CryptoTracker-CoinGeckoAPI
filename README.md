@@ -10,3 +10,5 @@
 - Design responsivo para todos os tamanhos de tela.
 
 - Utilização eficaz e inteligente dos componentes.
+
+![Crypto-Tracker-Google-Chrome-2022-03-24-09-12-38](https://user-images.githubusercontent.com/92753628/159913903-33593eee-1e65-459c-a461-7bf129d05bd5.gif)
