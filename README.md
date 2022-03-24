@@ -12,3 +12,6 @@
 - Utilização eficaz e inteligente dos componentes.
 
 ![Crypto-Tracker-Google-Chrome-2022-03-24-09-12-38](https://user-images.githubusercontent.com/92753628/159913903-33593eee-1e65-459c-a461-7bf129d05bd5.gif)
+
+
+![Crypto-Tracker-Google-Chrome-2022-03-24-09-16-21](https://user-images.githubusercontent.com/92753628/159914622-869b9f0f-7ccb-443a-9b10-d0cce66e403d.gif)
